@@ -1,0 +1,17 @@
+[23/07/13 15:35:21] Log opened.
+[23/07/13 15:35:21] 
+[23/07/13 15:35:21] Working directory was: J:\!work\!cubeworld\CWME_0.0.6
+[23/07/13 15:35:21] Working directory set to: J:\!work\!cubeworld\CWME_0.0.6
+[23/07/13 15:35:21] 
+[23/07/13 15:35:23] Renderer created.
+[23/07/13 15:35:23] 
+[23/07/13 15:35:23] GL_VENDOR: NVIDIA Corporation
+[23/07/13 15:35:23] GL_RENDERER: GeForce GTX 260/PCIe/SSE2
+[23/07/13 15:35:23] GL_VERSION: 3.3.0
+[23/07/13 15:35:23] GL_SHADING_LANGUAGE_VERSION: 3.30 NVIDIA via Cg compiler
+[23/07/13 15:35:23] 
+[23/07/13 15:35:23] Renderer setup.
+[23/07/13 15:35:23] Window setup.
+[23/07/13 15:35:23] Editor state created.
+[23/07/13 15:35:23] Editor state setup.
+[23/07/13 15:39:05] Log closed.

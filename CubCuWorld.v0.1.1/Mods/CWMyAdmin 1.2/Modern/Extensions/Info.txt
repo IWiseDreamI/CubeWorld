@@ -1,0 +1,9 @@
+﻿McMyAdmin Frontend extensions go here.
+
+New extensions need to be added to McMyAdmin by editing themcmyadmin.extensions line in McMyAdmin.conf
+
+For example:
+
+mcmyadmin.extensions=SampleExtension,AnotherExtension,Foo,Bar
+
+McMyAdmin must be stopped before editing McMyAdmin.conf. Extension names are CaSe SeNsItIvE.
